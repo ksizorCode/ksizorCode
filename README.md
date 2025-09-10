@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 
 
 ![](https://media.licdn.com/dms/image/v2/C4E16AQGKckfVV1023g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1606001719553?e=1746057600&v=beta&t=0nJw24-HNvOhgGA8CbMUE2_PjT2YrZPELAyOdrKxVQw)
+
+
+## Students:
+- [Computer Vision](https://github.com/ksizorCode/computer-vision)
+- [Apps Web Development](https://github.com/ksizorCode/2025DesWeb))
