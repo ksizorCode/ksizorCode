@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## Students:
 - 🧑‍🎓 [Computer Vision](https://github.com/ksizorCode/computer-vision)
-- 🧁 [Apps Web Development](https://github.com/ksizorCode/2025DesWeb))
+- 🧁 [Apps Web Development](https://github.com/ksizorCode/2025DesWeb)
