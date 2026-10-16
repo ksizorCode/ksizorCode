@@ -1,6 +1,7 @@
 ### Hi!, my name is Miguel 👋
 
 ## Students:
+- 🤖 [Curso Especialistas en iA](https://github.com/ksizorCode/especialista-en-ia)
 - 🖥️ [Desarrollo de Aplicaciones con Tecnología Web](https://github.com/ksizorCode/desAppWeb26)
 - 🧑‍🎓 [Computer Vision](https://github.com/ksizorCode/computer-vision)
 - 🧁 [Apps Web Development](https://github.com/ksizorCode/2025DesWeb)
